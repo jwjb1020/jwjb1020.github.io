@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jwjb1020.github.io/sitemap.xml
